@@ -1,0 +1,19 @@
+name: runner_code_ai_pro
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+    - assets/images/
+
+dependencies:
+  flutter:
+    sdk: flutter
+  font_awesome_flutter: ^10.7.0
+  url_launcher: ^6.2.5
+  flutter_animate: ^4.2.0
+  animated_text_kit: ^4.2.2
+  lottie: ^2.7.0
+  confetti: ^0.7.0
