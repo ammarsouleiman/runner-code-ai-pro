@@ -421,7 +421,7 @@ class _HomePageState extends State<HomePage> {
           'Document analysis',
           'Custom knowledge integration',
         ],
-        pricing: 'Freemium (Pro: \$0)',
+        pricing: 'Pro: \$0',
         detailedDescription:
             'OpenChat Pro is our flagship conversational AI tool that leverages GPT-4 architecture to provide human-like interactions. It supports over 50 languages and can understand context across long conversations. The tool is particularly useful for developers, content creators, and customer support teams.',
         useCases: [
@@ -448,7 +448,7 @@ class _HomePageState extends State<HomePage> {
           'Commercial usage rights',
           'Batch processing',
         ],
-        pricing: 'Credits-based (Pro: \$0)',
+        pricing: 'Pro: \$0',
         detailedDescription:
             'Our ImageGen AI uses state-of-the-art diffusion models to create high-quality images from text prompts. It supports various artistic styles including photorealistic, digital art, watercolor, and more. The tool includes advanced features like inpainting and outpainting for professional editing.',
         useCases: [
@@ -475,7 +475,7 @@ class _HomePageState extends State<HomePage> {
           'Cover letter generator',
           'Interview preparation',
         ],
-        pricing: 'Free basic (Pro: \$0)',
+        pricing: 'Pro: \$0',
         detailedDescription:
             'ResumeMaster AI analyzes thousands of successful resumes to help you create the perfect job application. It optimizes your resume for Applicant Tracking Systems (ATS) used by 99% of Fortune 500 companies and provides personalized suggestions to improve your chances of getting interviews.',
         useCases: [
@@ -502,7 +502,7 @@ class _HomePageState extends State<HomePage> {
           'Interactive learning',
           'Integration with IDEs',
         ],
-        pricing: 'Free basic (Pro: \$0)',
+        pricing: 'Pro: \$0',
         detailedDescription:
             'CodeExplainer Pro helps developers understand complex codebases quickly. It can analyze code in over 20 programming languages, explain functionality in simple terms, and suggest optimizations. The tool also identifies security vulnerabilities and provides educational resources for learning.',
         useCases: [
@@ -529,7 +529,7 @@ class _HomePageState extends State<HomePage> {
           'Audio editing suite',
           'Batch processing',
         ],
-        pricing: 'Free basic (Pro: \$0)',
+        pricing: 'Pro: \$0',
         detailedDescription:
             'VoiceAI Studio offers the most realistic text-to-speech conversion available. With advanced emotion control and pronunciation adjustment, you can create studio-quality voiceovers for videos, podcasts, and presentations without expensive recording equipment.',
         useCases: [
@@ -556,7 +556,7 @@ class _HomePageState extends State<HomePage> {
           'Contextual understanding',
           'API integration',
         ],
-        pricing: 'Freemium (Pro: \$0)',
+        pricing: 'Pro: \$0',
         detailedDescription:
             'VoiceChat AI enables natural voice conversations with AI assistants. The technology understands context, remembers previous interactions, and can be customized for specific use cases. Ideal for voice-enabled apps, smart home devices, and customer service applications.',
         useCases: [
